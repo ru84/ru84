@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ru84, working mostly with integration services.
 - 🌱 Languages: Go and Python.
 - ⛅ Clouds: IBM and Azure.
-- [LinkedIn](https://linkedin.com/dr-ruchi-yadav)
+- [LinkedIn](https://linkedin.com/in/dr-ruchi-yadav)
